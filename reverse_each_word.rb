@@ -1,4 +1,5 @@
-sentence1 = ["hello", "there,", "and", "how", "are", "you?"]
+sentence1 = "Hello there, and how are you?" 
+prints str.split
 
 def reverse_each_word(word)
   word.each do |x| 
