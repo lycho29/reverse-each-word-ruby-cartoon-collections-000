@@ -10,5 +10,5 @@ def reverse_each_word(word)
   end
 end
 
-
-  
+def reverse_each_word(word)
+  a.reverse_each {|x| print x, " " }
