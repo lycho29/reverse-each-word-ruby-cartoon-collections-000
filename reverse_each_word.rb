@@ -5,4 +5,6 @@ def reverse_each_word(word)
     puts x.reverse!
   end
 end
+
+
   
