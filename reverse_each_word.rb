@@ -5,8 +5,8 @@ def sentence_revised
 end
 
 def reverse_each_word(word)
-  word.each do |x| 
-    puts x.reverse!
+  word.reverse_each do |x| 
+    puts x
   end
 end
 
