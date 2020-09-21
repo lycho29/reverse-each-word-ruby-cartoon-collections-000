@@ -1,5 +1,7 @@
 sentence1 = "Hello there, and how are you?" 
-print str.split(" ")
+
+def sentence_revised
+  
 
 def reverse_each_word(word)
   word.each do |x| 
