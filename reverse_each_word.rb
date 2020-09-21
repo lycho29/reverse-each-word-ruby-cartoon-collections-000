@@ -1,9 +1,5 @@
-sentence1 = "Hello there, and how are you?" 
-
-def sentence_revised
-  sentence1.split(",")
-end
+sentence1 = ["Hello", "there,", "and", "how", "are", "you?"] 
 
 def reverse_each_word(word)
-  sentence_revised.reverse_each {|x| print x, " " }
+  sentence1.reverse_each {|x| print x, " " }
 end
